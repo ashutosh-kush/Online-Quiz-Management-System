@@ -1,0 +1,8 @@
+Which keyword is used to inherit a class in Java?|this/extends/implements/super|2
+Which collection allows duplicate elements?|Set/Map/List/Queue|3
+Which method is the entry point of a Java application?|start()/run()/main()/init()|3
+Which keyword is used to handle an exception?|catch/throwable/error/final|1
+Which keyword is used to inherit a class in Java?|this/extends/implements/super|2
+Which collection allows duplicate elements?|Set/Map/List/Queue|3
+Which method is the entry point of a Java application?|start()/run()/main()/init()|3
+Which keyword is used to handle an exception?|catch/throwable/error/final|1
